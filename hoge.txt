@@ -2,7 +2,6 @@ hoge
 a
 b
 jojo
-kesanakya
 
 
 papa
